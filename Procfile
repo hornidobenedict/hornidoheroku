@@ -1,1 +1,1 @@
-web: gunicorn hornidoheroku.wsgi
+web: gunicorn todo_list.wsgi
